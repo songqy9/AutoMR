@@ -1,6 +1,3 @@
-# AutoMR
-![Project Image](https://github.com/ACDBio/AutoMR/blob/main/AutoMR_scheme.png)
-> A script to run two-sample Mendelian Randomization (MR) in predefined directions using IEU GWAS data with provided in-house summary statistic in an automated manner.
 
 ### Examples 
 - to run MR to assess the effect of the summary statistic of interest (./ex/GWAS_example.tsv) on a range of IEU phenotypes with count of cases>4000):
